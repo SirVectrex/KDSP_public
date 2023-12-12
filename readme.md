@@ -3,7 +3,7 @@ Submitted at @OTH
 
 ## Running this project
 
-This submission is built on streamlit, a simple frontend framework for python, that creates a host-able front-end application.
+This submission is built on streamlit, a simple frontend framework for python, that creates a host-able front-end application. Please note, that running this application requires a key for the OpenRouteService API, placed within the streamlit secrets.
 
 To install all dependencies for this project:
 ```shell
